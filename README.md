@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Documetação para os gráficos
 https://www.chartjs.org/docs/latest/samples/other-charts/doughnut.html
+
+## interface dos gráficos
+<img src="./src/assets/graficos.jpg">
